@@ -11,7 +11,7 @@ O meu foco é desde de rever constéudos já estudados da linguagem como conceit
 
 1. [Formatação Github Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#further-reading)
 1.  [Formatação avançada](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
-2.  . [YouTube - 100 Dias de Java Para Iniciantes](https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD)
-3.  . [Desafio #100DaysOfCode. Qual é a sua origem, e por que você deveria fazer](https://www.freecodecamp.org/portuguese/news/desafio-100daysofcode-qual-e-a-sua-origem-e-por-que-voce-deveria-fazer-o-desafio/)
+2.  [YouTube - 100 Dias de Java Para Iniciantes](https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD)
+3.  [Desafio #100DaysOfCode. Qual é a sua origem, e por que você deveria fazer](https://www.freecodecamp.org/portuguese/news/desafio-100daysofcode-qual-e-a-sua-origem-e-por-que-voce-deveria-fazer-o-desafio/)
 4.  [Aprenda a programar com desafio 100 dias de Código](https://www.inspiradanacomputacao.com/blog/aprenda-a-programar-com-desafio-100-dias-de-codigo)
 
